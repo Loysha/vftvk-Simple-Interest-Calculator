@@ -1,4 +1,26 @@
-body {background-color:tan;}
-h1{color:green;}
+body {
+	background-color:black;
+	font-family:arial;
+	color:white;
+}
+h1{
+	color:grey;
+	font-family:verdana;
+}
+.mainDiv {
+	background-color:white;
+	font-family:arial;
+	color:black;
+	width:35%;
+	padding:20px;
+	border-radius:25px;
+	
+}
+.mainDivMargin {
+	margin-left:55px;
+}
+kbr{
+	background:yellow;
+}
 
 
